@@ -5,12 +5,8 @@ author_profile: false
 ---
 
 <div style="text-align: center;">
-     <img src="/assets/images/logos/nichartfmri_logo.png" width="70%" height="auto" />
+     <img src="/nichartfmri.github.io/assets/images/logos/nichartfmri_logo.png" width="70%" height="auto" />
 </div>
-
-<br/>
-<hr>
-<br/>
 
 <div style="text-align:center;">
   <div style="display:flex; justify-content:center;">

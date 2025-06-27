@@ -1,7 +1,7 @@
 main:
 - title: Studies
   url: /docs/datasets
-  sublinks:
+  children:
     - title: "BLSA"
       url: /nichartfmri.github.io/docs/datasets/BLSA
     - title: "OASIS3"
@@ -18,7 +18,7 @@ main:
       url: /nichartfmri.github.io/docs/datasets/A4
 - title: Imaging
   url: /nichartfmri.github.io/docs/imaging
-  sublinks:
+  children:
     - title: "fMRI Acquisition"
       url: /nichartfmri.github.io/docs/imaging/acquisition
     - title: "Processing"
