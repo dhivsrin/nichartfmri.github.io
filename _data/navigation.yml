@@ -3,31 +3,31 @@ main:
   url: /docs/datasets
   sublinks:
     - title: "BLSA"
-      url: /docs/datasets/BLSA
+      url: /nichartfmri.github.io/docs/datasets/BLSA
     - title: "OASIS3"
-      url: /docs/datasets/OASIS3
+      url: /nichartfmri.github.io/docs/datasets/OASIS3
     - title: "HABS"
-      url: /docs/datasets/HABS
+      url: /nichartfmri.github.io/docs/datasets/HABS
     - title: "HCP-YA"
-      url: /docs/datasets/HCP
+      url: /nichartfmri.github.io/docs/datasets/HCP
     - title: "PreventAD"
-      url: /docs/datasets/PreventAD
+      url: /nichartfmri.github.io/docs/datasets/PreventAD
     - title: "UKBIOBANK"
-      url: /docs/datasets/UKBIOBANK
+      url: /nichartfmri.github.io/docs/datasets/UKBIOBANK
     - title: "A4"
-      url: /docs/datasets/A4
+      url: /nichartfmri.github.io/docs/datasets/A4
 - title: Imaging
-  url: /docs/imaging
+  url: /nichartfmri.github.io/docs/imaging
   sublinks:
     - title: "fMRI Acquisition"
-      url: /docs/imaging/acquisition
+      url: /nichartfmri.github.io/docs/imaging/acquisition
     - title: "Processing"
-      url: /docs/imaging/processing
+      url: /nichartfmri.github.io/docs/imaging/processing
     - title: "Harmonization"
-      url: /docs/imaging/harmonization
+      url: /nichartfmri.github.io/docs/imaging/harmonization
     - title: "Quality Control"
-      url: /docs/imaging/qc
+      url: /nichartfmri.github.io/docs/imaging/qc
 - title: Team
-  url: /docs/team
+  url: /nichartfmri.github.io/docs/team
 - title: Publications 
-  url: /docs/publications
+  url: /nichartfmri.github.io/docs/publications
