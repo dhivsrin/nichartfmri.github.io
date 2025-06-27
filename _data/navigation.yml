@@ -1,9 +1,33 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+- title: Studies
+  url: /docs/datasets
+  sublinks:
+    - title: "BLSA"
+      url: /docs/datasets/BLSA
+    - title: "OASIS3"
+      url: /docs/datasets/OASIS3
+    - title: "HABS"
+      url: /docs/datasets/HABS
+    - title: "HCP-YA"
+      url: /docs/datasets/HCP
+    - title: "PreventAD"
+      url: /docs/datasets/PreventAD
+    - title: "UKBIOBANK"
+      url: /docs/datasets/UKBIOBANK
+    - title: "A4"
+      url: /docs/datasets/A4
+- title: Imaging
+  url: /docs/imaging
+  sublinks:
+    - title: "fMRI Acquisition"
+      url: /docs/imaging/acquisition
+    - title: "Processing"
+      url: /docs/imaging/processing
+    - title: "Harmonization"
+      url: /docs/imaging/harmonization
+    - title: "Quality Control"
+      url: /docs/imaging/qc
+- title: Team
+  url: /docs/team
+- title: Publications 
+  url: /docs/publications

@@ -1,7 +1,14 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-
+gemspec
+gem "jekyll"
+gem "kramdown-parser-gfm"
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "faraday", "2.9.2"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 

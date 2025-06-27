@@ -32,7 +32,7 @@ description: "The official website for the NiChart functional connectivity QC an
 url: "https://nichartfmri.github.io"
 baseurl: ""
 repository: "dhivsrin/nichartfmri.github.io"
-logo: "/assets/images/nichartfmri_logo.png" # path of logo image to display in the masthead
+logo: "/assets/images/logos/nichartfmri_logo.png" # path of logo image to display in the masthead
 masthead_title: " " # overrides the website title displayed in masthead, use " " for no title
 words_per_minute: 200
 comments:
