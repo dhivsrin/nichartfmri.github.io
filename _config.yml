@@ -20,7 +20,7 @@
 
 # theme : "minimal-mistakes-jekyll"
 # remote_theme : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: default # "air","aqua","contrast","dark","dirt","neon","mint","plum","sunrise"
+minimal_mistakes_skin: nichart # "air","aqua","contrast","dark","dirt","neon","mint","plum","sunrise"
 
 # Site Settings
 
@@ -29,8 +29,8 @@ subtitle: "Functional Connectivity & Harmonization"
 name: "NiChart"
 email:
 description: "The official website for the NiChart functional connectivity QC and Harmonization"
-url: "https://nichartfmri.github.io"
-baseurl: ""
+url: "https://dhivsrin.github.io"
+baseurl: "/nichartfmri.github.io"
 repository: "dhivsrin/nichartfmri.github.io"
 logo: "/assets/images/logos/nichartfmri_logo.png" # path of logo image to display in the masthead
 masthead_title: " " # overrides the website title displayed in masthead, use " " for no title
